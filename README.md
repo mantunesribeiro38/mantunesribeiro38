@@ -1,5 +1,5 @@
 
-##  Olá, meu nome é <strong>Mateus</strong>
+## 👋 Olá, meu nome é <strong>Mateus</strong>
 
 🎓 Graduado em Sistemas de Informação - <a  href="https://unimontes.br/">Universidade Estadual de Montes Claros</a>.
 
