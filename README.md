@@ -1,4 +1,5 @@
 
+
 ## 👋 Olá, meu nome é <strong>Mateus</strong>
 
 🎓 Graduado em Sistemas de Informação - <a  href="https://unimontes.br/">Universidade Estadual de Montes Claros</a>.
@@ -22,8 +23,4 @@
 ---
 
 ## 🔭 Onde me encontrar
-[![Linkedin: MATEUS](https://img.shields.io/badge/-MATEUS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)](https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)
-
-[![Gmail Badge](https://img.shields.io/badge/-mantunesribeiro38@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mantunesribeiro38@gmail.com)](mailto:mantunesribeiro38@gmail.com)
-
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/mantunesribeiro38?label=follow&style=social)](https://github.com/mantunesribeiro38)
+[![Linkedin: MATEUS](https://img.shields.io/badge/-MATEUS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)](https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166) [![Gmail Badge](https://img.shields.io/badge/-mantunesribeiro38@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mantunesribeiro38@gmail.com)](mailto:mantunesribeiro38@gmail.com) [![GitHub SEU NOME]( https://img.shields.io/github/followers/mantunesribeiro38?label=follow&style=social)](https://github.com/mantunesribeiro38)
