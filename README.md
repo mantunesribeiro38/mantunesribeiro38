@@ -23,4 +23,4 @@
 ---
 
 ## 🔭 Onde me encontrar
-[![Linkedin: MATEUS](https://img.shields.io/badge/-MATEUS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)](https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)[![GitHub SEU NOME]( https://img.shields.io/github/followers/mantunesribeiro38?label=follow&style=social)](https://github.com/mantunesribeiro38)
+[![Linkedin: MATEUS](https://img.shields.io/badge/-MATEUS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166)](https://www.linkedin.com/in/mateus-antunes-ribeiro-716b50166) [![GitHub SEU NOME]( https://img.shields.io/github/followers/mantunesribeiro38?label=follow&style=social)](https://github.com/mantunesribeiro38)
