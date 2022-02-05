@@ -4,7 +4,6 @@
 
 🎓 Graduado em Sistemas de Informação - <a  href="https://unimontes.br/">Universidade Estadual de Montes Claros</a>.
 
-💼 Trabalhando como desenvolvedor Full Stack na <a  href="https://akatecnologia.com/">Aka Tecnologia</a>
 
 ----
 
